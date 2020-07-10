@@ -3,6 +3,383 @@ Ques 1.Share the link to the Github repoditory you have created.
 Ans1. My link to Github repository is github.com/Ayushma6204/Github_Series
 Ques2
 a)How git workflow works?
+Ans a) Working of git TASK 1.                                                           1.What do you mean by Git and Github?
+Ans Git is a distributed version control software, a tool to manage your source code history. In git  it handles all those thing of merging of different source code from different people.
+Github is a web site or web service that have account on a server .It is a social network for projects that are managed through Git. It is a hosting service for Git repositories.
+2.Why Github is so popular and used in most of the projects?
+Ans: As  largest open source repository in world it offers a number of benefits.
+a)It supports all programming languages.
+b)It control revision and run in common line interface.
+c)We can make a repository where we can add files and then we can make changes by making commit.
+d)By making a commit we can also browse through our history.
+e)Github also keep track of various changes made after every iteration.
+f)Project management made simple through Github.
+3.What is Version Control System? How Git is VCS?
+Ans: Version Control System is a system that record changes to a file or a set of files over time so that we can recall specific versions later.
+Git is VCS because in Git we can keep track of our work and easily navigate among the many versions of the file we create,whilst also maintaining an online backup. It allows us to assign task to different user making it clear who is responsible for which part of the analysis.
+4.What are other platform similar to Github?
+Ans: Other platforms similar to Github:
+a).Gitlab
+b).SourceForge
+c).Cloud Source Repositories
+d).GitKraken
+e).Bitbucket
+f).Apache Allura
+5. Why are you interested in learning of Git and Github?
+Ans: I am interested in Git and Github because many interviewers ask for github profile.A good Github profile can impress the interviewer. And is undoubtedly a valuable skill to have as a programmer,not only in workplace but also personally.Github is like  portfolio for programmers.Companies loves programmers that invest themselves in this community.Learning how to use it can give us really a good job. It aso provide wide exposure for our project and for us. (edited) 
+:+1:
+2
+
+
+
+
+
+
+6 replies
+Last reply 3 days agoView thread
+
+Aditya Singh Tomar  1:08 AM
+What do you mean by git and GitHub?
+    -- Git is a software. A distributed version control system software which can allow different people around the world to make commit in the project and handle the versions of the project and maintain those version. In git you make repositories. We can make changes to the project on git without any internet access it stores a local backup in computer.
+   -- GitHub is a website where anyone from anywhere can work on projects together. It is a social network which uses git software somewhere in the background to manage projects.
+2.    Why  GitHub is so popular and used in most of the projects?
+     -- Git is fast and secure and it is almost not possible that we lose our data and it provides us so many features. It is used in most of the projects because we can manage different versions of the project separately and can create branches in it.
+3.    What is version control system? How Git is a VCS?
+     -- A version control system means it can track all the changes and the version of our project. A git is a software that manages the versions and keep track of the older versions and the new commits. Git can provide you the latest and the oldest version of your projects.
+4.   What are the other platforms similar to GitHub?
+     -- 1. Gitlab
+     -- 2. Bitbucket
+     -- 3. Apache Allura
+     -- 4. Sourceforge and many more are there.
+5.   Why are you interested in learning git and github?
+     -- Because it is Open-source and it is useful. (edited) 
+
+
+2 replies
+Last reply 5 days agoView thread
+
+R.VAISHNAVI  1:12 AM
+Task - 1
+1. What do you mean by git and GitHub?
+Answer: Git is a distributed version-control system for tracking changes in source code during software development.
+GitHub is a server where we can have an account.
+2. Why GitHub is so popular and used in most of the projects?
+Answer: GitHub is an open source repository which is world's largest software and it provides many benefits that it is used in most of the projects.
+3. What is a version control system? How Git is a VCS?
+Answer: Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
+Git is designed for coordinating work among programmers and it can be used to track changes in any set of files.
+4. What are the other platforms similar to GitHub?
+Answer: Other platforms similar to GitHub are Bitbucket, GitLab, Google Cloud Source Repositories, Pharbricator, Rhode Code etc.
+5. Why are you interested in learning of Git and Github?
+Answer: Since GitHub is an open source software and has many benefits in programming I'm interested in learning about the software.
+:+1:
+1
+:white_check_mark:
+1
+
+
+
+
+
+4 replies
+Last reply 4 days agoView thread
+
+Manisha gupta  8:14 AM
+Task -1
+1.Git is an open-source distributed version control system (DVCs) commonly used for open source and commercial software development. DVCs allows full access to every file, branch, &iteration of a project, and allows every user access to a full and self-contained history of all changes.
+Github is open source platform where large number of programmers can store, update their projects based on their versions. It also helps to collaborate all the programmers.
+2.Reason behind github is so popular & useful in most of the project:-
+Largest shared respiratory
+Powerful community
+Easy version control
+Cloud storage
+Provide wide exposure for our projects and for us.
+3.Version control systems are a category of software tools that helps record changes to files by keeping a track of modifications done to the code.
+Git is a Vcs as it allows you to manage changes to file overtime. It also uses principle of Vcs.
+4.Other platforms similar to github are:-
+Gitlab
+Bitbucket
+Bean stalk
+Launch pad
+Source forge
+5.I'm interested in learning git nd github becoz it simplifies the process of working with other people &makes it easy to collaborate on projects.
+:+1:
+3
+
+
+
+
+3 replies
+Last reply 4 days agoView thread
+
+Devanshi Goel  8:40 AM
+I wanna join this series
+
+
+2 replies
+Last reply 4 days agoView thread
+
+Priyanka  9:14 AM
+TASK 1
+Q1. What do you mean by git and GitHub?
+--Git is a piece of software that does *version control system*. It lets you manage and keep track of entire history that you are working on your computer.
+                              Git is a particularly special tool which has a lot of advanced and sophisticated features for *collaboration*.First developed in 2005.
+--GitHub is a cloud-based hosting service that lets you manage Git repositories. If you have open-source projects that use Git, then GitHub is designed to help you better manage them.
+Q2.  Why GitHub is so popular and used in most of the projects?
+--GitHub is a Git repository hosting service, but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. It also provides access control and several collaboration features, such as a wikis and basic task management tools for every project.GitHub is the world's largest software development platform. It provides cloud storage for source code, supports all popular programming languages, and streamlines the iteration process.
+Q3. What is a version control system? How Git is a VCS?
+--Version control systems are a category of software tools that help a software team manage changes to source code over time. Version control software keeps track of every modification to the code in a special kind of database.
+                          Git is a VCS because it allows to manage the multiple track of your files stored in your computer.
+Q4. What are the other platforms similar to GitHub?
+--Other platforms similar to GitHub:-
+i)GitLab
+ii)SourceForge
+iii)Google Cloud Source Repositories
+iv)GitKraken
+v)Apache Allura(Self-Hosted)
+vi)BitBucket
+vii)Launchpad
+viii)AWS CodeCommit
+ix)Phabricator
+x)Gogs(Self-Hosted)
+Q5. Why are you interested in learning of Git and Github?
+--i)Have your code reviewed by the community.
+ii)GitHub is a repository, it allows your work to get out in front of the public.
+iii)GitHub also tracks changes in a changelog, so you can know exactly what is changed each time.
+iv)Use Multiple Integration Options.
+:+1:
+1
+
+
+
+
+3 replies
+Last reply 4 days agoView thread
+
+Sumanth Maturi  9:33 AM
+Task-1
+1.Git is an distributed version control software which helps us to manage our source code related works. Also git is used to handle combining of different sourcecodes from different members in coding society.
+Where, Github is a website / an Web Service at which an user may have individual account on that web server where it actually  works as an social network  for projects that are managed through Git.
+02.we can say that it is the largest repository in the world which is well known for its valuable space that it provides for data to be stored. It allows to store unlimited public codes as repositories where we can also create organisations .Also github is mainly known for its features as it provides some trademarking features such as
+i) repository
+ii) commit
+iii) commit hash
+03.
+We need to be updated daily i.eee,we have to be more relavant to updations rather than believing in past done work .an version control system enables user to update his or her repositories which records any changes that are made to the respected file which can be called with specific versions
+Git is considered as an version control system since in gut we can keep an track record of all our work and easily navigate among the many versions of file that we create. Also git allows an user toa ssign task to different user making it cluster clear who is responsible for which part of the analysis.
+04.
+I found some platforms same as github such as:
+Source Forge, Apache Allura, Gitlab e. t. c.,
+05 .
+Many interviews ask for an github profe to see oyr projects and our work relatedd efficiency. A good agithub profile can impress an HR and is an valuable skill to have as an programmer, not only for maintaining an work place but also personally. Companies usually loves programmers that invest themselves for the community by vigourous practice finally learning can defnitely give us really a good job. Using git give us an wideexposure for our taking up projects or done projects or for our practice.
+:white_check_mark:
+4
+:+1:
+2
+
+
+
+
+
+6 replies
+Last reply 4 days agoView thread
+
+Tithi Bhasme  10:07 AM
+TASK 1
+Q1. WHAT DO YOU MEAN BY GIT AND GITHUB?
+:- Git is Distributed Version Control Software and GitHub is web site  or a platform where you can develop any software.
+Q2. WHY GITHUB IS SO POPULAR AND USED IN MOST OF THE PROJECTS?
+:-  GitHub is so popular because it provides cloud storage for source code and support all programming languages and it has repository services and having collaboration features it is used in most of the projects.
+Q3. WHAT IS A VERSION CONTROL SYSTEM? HOW GIT IS A VCS?
+:- Version Control is a System that records changes to a file or set a files over times.
+Git is a Distributed Version Control Software or System.
+Q4. WHAT ARE THE OTHER PLATFORMS SIMILAR TO GITHUB?
+:- 1) Gitlab
+   2) Source Forge
+   3) Cloud Source Repositories
+   4) Git Kraken
+Q5. WHY ARE YOU INTERESTED IN LEARNING OF GIT AND GITHUB?
+:-   I am interested in learning of Git and GitHub because it is secure, open source and used to large projects. (edited) 
+:white_check_mark:
+3
+
+
+
+
+
+4 replies
+Last reply 4 days agoView thread
+
+Huzaib  10:14 AM
+Task-1
+1) What do you mean by git and GitHub?
+Git is a distributed version control system allowing us to have control over all the previous versions of our files as well as allowing easy collaboration and community tasks.
+Git allows us to easily rollback to previous versions and also work at multiple versions simultaneously with the help of branches
+GitHub is a hosting service or website for all our projects and files allowing us the full implementation of git. It is the best way of contributing and learning in the field of open-source.
+2) Why GitHub is so popular and used in most of the projects?
+GitHub is very popular due to its vast community and huge impact on open-source development.
+People get help from other people in the form of contributions and hence reveal the real meaning of open source.
+It is used in most of the projects nowadays because every project requires to have a version control system as well as contribution from the open source community.
+3) What is a version control system? How git is a VCS?
+A version control system is a system allowing us to have control and record over different versions of our project. Git is a version control system as it allows all the respective functionalities along with features like committing to open source projects. All this is done in a distributed fashion i.e, every project has a server repo and a local repo thus eliminating the chances of loss. Hence it is a really powerful DVCS.
+4) What are the other platforms similar to GitHub?
+Gitlab
+Bitbucket
+SourceForge
+Apache Allura
+GitKraken
+5) Why are you interested in learning git and GitHub?
+It is essential for every project so as to get help in debugging. Additionally, I want to start contributing in open source and become a part of this vast community. Also, I want to participate in GSOC. Nowadays GitHub has become a portfolio for programmers and I want to create an impressive GitHub profile.
+:white_check_mark:
+3
+:+1:
+2
+
+
+
+
+
+
+5 replies
+Last reply 4 days agoView thread
+
+Aarohika Sharma  10:34 AM
+I am interested in joining this series
+
+1 reply
+4 days agoView thread
+Pinned by Deepak Kumar (Mentor)
+
+Deepak Kumar (Mentor)  11:42 AM
+@channel Hey guys, I hope you all are doing great.
+Here's the link to the google docs of a second-day task: https://docs.google.com/document/d/1IJaA0rpr6U9xtdLH-XSOuR-QxQHOUnU8jtOHLYm1km8/edit?usp=sharing
+Once you completed all the tasks perfectly you need to do the following things to get marked as completed by our team
+1. Share the link to the GitHub repository you have created.
+2. Your README should contain a brief about the project and should be written in markdown language.
+Drop the answer to the following questions
+ a. How git workflow works?
+ b. What're the different stages of a git project as commit, add?
+ c. Is it possible to do a git commit before git add . if you have made any changes? Explain why?
+ d. Why is git diff used?
+ e. Can we leave the commit message as blank?
+I expect the answers to be precise for the above questions. Please only
+write what you have understood. If you are facing any difficulties drop
+your question in the channel we would try to help our best.
+Deadline to submit day 2 task is by 11am tomorrow
+Happy Hacking:smile:
+Regards
+Codewayy
+11:43
+@channel All the new members are requested to submit day 1 task ASAP.
+
+Pawan Agrawal  11:52 AM
+If someone has a old github account then he have to create new repo or he can share his old repos.
+
+
+2 replies
+Last reply 4 days agoView thread
+
+Rushikesh Gaurkar  12:07 PM
+Name-Rushikesh GaurkarWhat do you mean by git and giyhub-
+    Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories.
+2)Why GitHub is so popular and used in most of the projects?
+GitHub is very popular due to its vast community and huge impact on open-source development.
+People get help from other people in the form of contributions and hence reveal the real meaning of open source.
+It is used in most of the projects nowadays because every project requires to have a version control system as well as contribution from the open source community.
+3) What is a version control system? How git is a VCS?
+A version control system is a system allowing us to have control and record over different versions of our project. Git is a version control system as it allows all the respective functionalities along with features like committing to open source projects. All this is done in a distributed fashion i.e, every project has a server repo and a local repo thus eliminating the chances of loss. Hence it is a really powerful DVCS.
+4) What are the other platforms similar to GitHub?
+Gitlab
+Bitbucket
+SourceForge
+Apache Allura
+GitKraken
+5) Why are you interested in learning git and GitHub?
+It is essential for every project so as to get help in debugging. Additionally, I want to start contributing in open source and become a part of this vast community. Also, I want to participate in GSOC. Nowadays GitHub has become a portfolio for programmers and I want to create an impressive GitHub profile.
+:white_check_mark:
+1
+
+
+
+
+3 replies
+Last reply 4 days agoView thread
+
+Pawan Agrawal  11:49 PM
+Doubt-
+For showing the hidden files inside the folder,
+We use ls -la and same thing can be done by using ls -a...what is the difference in both of these commands.
+
+R.VAISHNAVI  12:56 AM
+Hello, my TASK -2 is as follows:-
+My link to the GitHub repository is https://github.com/Vaishnavitopper/My-first-GIT.git        
+This is my github repository and all the tasks from GitHub series will be uploaded here.
+Answers for the given questions are:-     
+a. How git workflow works?
+Answer: A Git Workflow is a recipe or recommendation for how to use Git to accomplish work in a consistent and productive manner. Git workflows encourage users to leverage Git effectively and consistently. Git offers a lot of flexibility in how users manage changes. We can view about git workflow by using the command git status which is used after adding the file and gives us the status of that file. That is also called as staging area.
+b. What're the different stages of a git project as commit, add?
+Answer: There are three different stages of the git project, these are Working Directory, Staging Area and Git Directory.Working directory is the directory containing hidden .git folder.Staging area is where we organize the files to be committed to Git for tracking their versions. Indexing is the process of adding files to the staging area. In other words, index constitutes of files added to the staging area.  Git directory is the database where metadata about project files' history will be tracked.
+c. Is it possible to do a git commit before git add . if you have made any changes? Explain why?
+Answer: The "commit" command is used to save your changes to the local repository. We have to explicitly tell which changes we want to include in a commit before running the "git commit" command. This means that a file won't be automatically included in the next commit just because it was changed. Instead, we need to use the "git add" command to mark the desired changes for inclusion. Thus it is not possible to do a git commit before git add if we have made any changes.
+d. Why is git diff used?
+Answer:  git diff command is used to tell what difference is made in a file. If there are more than one file then the command will tell the differences of the files one by one.
+e. Can we leave the commit message as blank?
+Answer: Yes, we can leave the commit message as blank but it is considered to have short commit message if we made any changes to the file.
+:white_check_mark:
+1
+
+
+
+
+
+6 replies
+Last reply 3 days agoView thread
+
+Priyanka  1:13 AM
+TASK 2
+1. Share the link to the GitHub repository you have created.
+https://github.com/priyanka15-cyber/python-program.git
+2.Your README should contain a brief about the project and should be written in markdown language.
+https://github.com/priyanka15-cyber/python-program/commit/b57954d30e579d44f02362f7e60cd22746bfb371
+a. How git workflow works?
+--Git workflow works as:-
+i)Create a new repository for your code on GitHub
+ii)Add this as a remote for your local repository
+iii)Make changes to your local repository as usual
+iv)Upload or push your changes to the remote
+ b. What're the different stages of a git project as commit, add?
+ --Three stages:-
+ i)git status
+ ii)git add <file>
+ iii)git commit <option>
+ c. Is it possible to do a git commit before git add . if you have made any changes? Explain why?
+ --No.
+ Because modified file must be added before committing,you have to tell Git which changes you want to save.
+ d. Why is git diff used?
+ --To see the difference between the previous version and the committed one.
+ git diff => compare repository with last commit
+ e. Can we leave the commit message as blank?
+ --No
+ When i tried this=>
+ git commmit -m
+ error: switch `m' requires a value
+:+1:
+1
+
+
+
+
+
+7 replies
+Last reply 3 days agoView thread
+Added to your saved items
+
+Ayushma Bahuguna  4:16 AM
+TASK 2:
+Ques 1.Share the link to the Github repoditory you have created.
+Ans1. My link to Github repository is github.com/Ayushma6204/Github_Series
+Ques2
+a)How git workflow works?
 Ans a) Working of git workflow:It consist of four fundamentals elements i.e Workspace ,index,local repository ,remote repository.
 File in workspace can be stored in 3 possible ways : committed  when data is safely stored,modified in case when your file being changed and none of the changes are saved in local repository,it can be staged  which mean file is part of index that is tagged to be consider in next commit. It works in 2 ways i.e centralised and decentralised. In case of decentralised there is local repository and you have to explictly push your changes to remote repository this is done by git push command.
 Git fetch  command to get files from remote to local repository  ,Git merge is used to get changes from local repository and take them to workspace .
@@ -18,4 +395,793 @@ Ques d).git diff is used for?
 Ans) git diff command is used to see the difference between files that are in workplace and the files that are staged for commit.
 Ques e)Can we leave the commit message as blank?
 Ans e) Yes we can  leave the commit message as blank. In case if you want to create empty commit you simply add the --allow-empty flag on git commit and add your message. (edited) 
+:white_check_mark:
+3
+:+1:
+1
+
+
+
+
+5 replies
+Last reply 3 days agoView thread
+
+Ananya Mehra  4:20 AM
+TASK 2:
+Q)share the link of the github repository you have created.
+ans)https://github.com/ANANYA162020/project112
+Q): drop the ans to the following queestions
+a-how git overflow works?
+ans - git overflow is basically a procedure in which file undergoes three stages:
+1.here the git clone command will create a locker repository in workspace .
+2.add - it is to add a file from the workspace to the index after that the file is staged.
+and to commit the file all the file staged their changes will be comitted to the locker repository.
+3. there is a local repository from where we have to push our changes to remote repository.
+at remote repository it is visible to anyone who uses this repository .
+b - what are the different stages of a git project as commit, add?
+there are three stages they are as follows:
+ans -clone - creates a local repository in workspace.
+add - adds a file to the index.
+commit - is like save after you have made changes to your file.
+and push is included in the third stage only
+push - basically pushes your changes from local to remote.
+c - is it possible to do a git commit before git add . if you have made any changes explain why?
+ans - no it is not possible to do a git commit before git add because you havr to first explicitly
+specify the changes or modifications that you have done rather than just going to the next step commit
+as first the files will be staged and then comitted this will be for new files.
+d - why is git diff used?
+ans - it is used to find difference between files in workspace and index stage and what you could still
+for furthur to commit and that then the local changes will not make it to the next commit.and this we can
+use as a sanity check before doing a commit to make sure all the local changes that you have and you want to
+commit are already staged.
+e - can we leave a commit message as blank?
+ans - yes we can leave the commit box empty and it's up to you if you want to add a small message to it , adding a message is only then when you want to specify a message , so it's up to you . (edited) 
+:white_check_mark:
+3
+:+1:
+1
+
+
+
+
+5 replies
+Last reply 3 days agoView thread
+
+Pawan Agrawal  10:24 AM
+Task-2
+Q) share the link of your github repo you have created.
+Ans) https://github.com/pawan-git7979/Todo-list
+Q) drop the ans of the following question.
+a) and b) how git workflow works and what are different stages of git project.
+Ans) Git workflow is a process..comprised of three levels. Working directory (local system) , staging area, github repository.
+Git workflow shows us how the changes that had been made in the local copy can be transmitted to our github repo. this can be achieved by the no.of commands.
+(1) git init- first of all we have to initialise the git inside the folder, Which upon we want to work.
+(2) create a local file inside your directory or folder and make some changes.
+Now these changes can be seen only in your local copy not your github repo.
+(3) git add <file name> - this will add your local file into the staging area, it means files are ready to commit.
+You can see by running git status command which files we have to add in staging area.
+(4) now the last step remain, commiting changes.
+ Git commit -m "message" - this command will commit or save the changes that have been made by us in the files..and. Will also be reflected in our github repo.
+Now our local copy and github repo are exactly the same.
+pawan-git7979/Todo-list
+simple Todo-list having features of adding and deleting the items.
+Language
+JavaScript
+Last updated
+8 minutes ago
+<https://github.com/pawan-git7979/Todo-list|pawan-git7979/Todo-list>pawan-git7979/Todo-list | Jul 7th | Added by GitHub
+
+Pawan Agrawal  10:27 AM
+C)is it possible to do a git commit before git add, of u have made any changes explain.why..?
+Ans)It is not possible to add git commit before git add.. bcs when we are running the git addd command it means that we are adding the files into the staging area or simply the files that we want to get commited we only out those files into the staging area...and after adding files into staging area we can run command git commit -m "message" to save all the changes that we have made in our local copy.
+D) why is git diff use..
+Ans)
+Git diff is a git command and is used to see what changes we have done in our local copy before and after. After running the git diff command we can see the code which we have added in green colour and code which we have deleted in red colour.
+After doing this if u want these changes to be also seen in your github repo you can run the git add command and after that git commit command to save all your changes in your github repo.
+E) can we leave a commit message as blank..?
+Ans) Yes, of course we can leave the commit message blank...like this---> git commit -m " ".
+But we shouldn't do this, bcs if the third person look into your repo he won't we able to understand what commit u have done until u have written the perfect  commit message.
+:white_check_mark:
+1
+:+1:
+1
+
+
+
+
+
+7 replies
+Last reply 3 days agoView thread
+
+Manish Jha  10:47 AM
+TASK 2:
+1. Share the link to the Github repo you've created.
+https://github.com/manishkrjha/Github-Roadmap
+2.Your README should contain breif about the project and should be wirtten in markdown language.
+https://github.com/manishkrjha/Github-Roadmap/blob/master/README.md
+a. How git workflow works?
+ans: Git workflow defines a branching model which provides a systematic framework for managing projects. It keeps checks of the versions and the changes commited, provides liberty in making branches and switching between versions.
+b.What are the different stages of git project as commit, add?
+ans: The main stages of git project are
+         - status:  displays the status of working directory as well as tells you what changes have been committed.
+        - add: Add the changes in the working directory to staging area
+        - commit: updates the changes added to staging area.
+c. Is it possible to do a git commit before git add. If you have made any changes. Explain why?
+ans: No, it is necessary to add the changes before commiting that to staging area otherwise git won't know what changes do we want to make.
+d. Why is git diff used?
+and: Git diff provides us the difference between the previous and the current version of the file.
+e. Can we leave commit message as blank?
+ans: Yes but this is not considered as a good practice as message help us to keep record of (by using git log) the changes we've made.
+manishkrjha/Github-Roadmap
+Language
+HTML
+Last updated
+2 minutes ago
+<https://github.com/manishkrjha/Github-Roadmap|manishkrjha/Github-Roadmap>manishkrjha/Github-Roadmap | Jul 7th | Added by GitHub
+README.md
+<https://github.com/manishkrjha/Github-Roadmap|manishkrjha/Github-Roadmap>manishkrjha/Github-Roadmap | Added by GitHub
+:white_check_mark:
+2
+
+
+
+2 replies
+Last reply 3 days agoView thread
+
+Huzaib  11:07 AM
+Task-2
+1) Share the link to the GitHub repository you have created?
+https://github.com/Huzaib/Binary-Search-Using-Divide-And-Conquer
+2) Your README should contain a brief about the project and should be written in markdown language.
+https://github.com/Huzaib/Binary-Search-Using-Divide-And-Conquer/blob/master/README.md
+a) How git workflow works?
+It consists of our Workspace, Staging Area, Local Repo and Remote Repo.
+If we are creating a repo, then it goes from our workspace to the staging area then to our local repo and then finally pushed to the remote repo
+If we are cloning one from the remote repo then the reverse order is implemented.
+b) What are the different stages of a git project as commit, add?
+add- To add our project to staging area
+commit- To add all our files in our staging area to our local repo
+push- To add our files in the local repo to the remote repo
+fetch- To get files to local repo from remote repo
+merge- To merge the files to our workspace
+pull- fetch+merge
+c) Is it possible to do a commit before git add, if you have made any changes? Explain why?
+Yes, we can do git commit -a and it will act as add + commit
+d) Why is git diff used?
+To see the differences between files in our staging area and files in our workspace
+e) Can we leave the commit message blank?
+Yes we can. It is just for our convenience to give every commit a commit message.
+Huzaib/Binary-Search-Using-Divide-And-Conquer
+Language
+Java
+Last updated
+27 minutes ago
+<https://github.com/Huzaib/Binary-Search-Using-Divide-And-Conquer|Huzaib/Binary-Search-Using-Divide-And-Conquer>Huzaib/Binary-Search-Using-Divide-And-Conquer | Jul 7th | Added by GitHub
+README.md
+<https://github.com/Huzaib/Binary-Search-Using-Divide-And-Conquer|Huzaib/Binary-Search-Using-Divide-And-Conquer>Huzaib/Binary-Search-Using-Divide-And-Conquer | Added by GitHub
+
+
+2 replies
+Last reply 3 days agoView thread
+
+Kushagra Sharma (Git Mentor)  11:15 AM
+Please note that you should share repo link of the newly created "Github Series", many students are not doing this.
+Regards
+Codewayy
+
+Huzaib  11:46 AM
+Task-2
+1) Share the link to the GitHub repository you have created?
+https://github.com/Huzaib/Binary-Search-Using-Divide-And-Conquer
+2) Your README should contain a brief about the project and should be written in markdown language.
+https://github.com/Huzaib/Binary-Search-Using-Divide-And-Conquer/blob/master/README.md
+a) How git workflow works?
+It consists of our Workspace, Staging Area, Local Repo and Remote Repo.
+Developers start by cloning the remote repository. In their own local copies of the project, they edit files and commit changes however, these new commits are stored locally - they're completely isolated from the remote repository.
+To publish changes to the official project, developers "push" their local master branch to the remote repository.
+b) What are the different stages of a git project as commit, add?
+init- To initialise a git repository
+add- To add our project to staging area
+commit- To add all our files in our staging area to our local repo
+push- To add our files in the local repo to the remote repo
+fetch- To get files to local repo from remote repo
+merge- To merge the files to our workspace
+pull- fetch+merge
+c) Is it possible to do a commit before git add, if you have made any changes? Explain why?
+No, we can commit only the files in the staging area and we have to git add them to get them in the staging area first. Git cannot track the files that are not present in the staging area and hence git commit is not possible before git add. Hence to have the files in the local repo we have to perform git add plus git commit in the same order.
+d) Why is git diff used?
+It is a command to see the differences between files in our staging area and our workspace. It can be used to check before committing whether all the changes are added to the staging area before committing to the local repo. Hence helping us to not miss any file or changes within a file before pushing. The files changed  are shown in red. Git log can be used to track all the changes in decreasing order of their occurrences.
+e) Can we leave the commit message blank?
+Yes we can. It is just for our convenience to give every commit a commit message. But it is a good practice to add a commit message because it helps us remember the changes we made in each and every commit.
+Huzaib/Binary-Search-Using-Divide-And-Conquer
+Language
+Java
+Last updated
+5 minutes ago
+<https://github.com/Huzaib/Binary-Search-Using-Divide-And-Conquer|Huzaib/Binary-Search-Using-Divide-And-Conquer>Huzaib/Binary-Search-Using-Divide-And-Conquer | Jul 7th | Added by GitHub
+
+
+4 replies
+Last reply 3 days agoView thread
+
+Kushagra Sharma (Git Mentor)  11:53 AM
+replied to a thread:
+Task-2…
+It is good but still please create that repo as you will be doing more tasks in upcoming days and those task has to be pushed in Github repo...so it is advised that you create it today itself.
+Regards
+View newer replies
+
+Deepak Kumar (Mentor)  1:00 PM
+@channel I will add day 3 tasks by 3pm as many students who have joined late are working on day 1 and day 2 task.
+:+1:
+1
+
+
+Aditya Singh Tomar  2:16 PM
+Task 2
+Share the link to the GitHub repository you have created? https://github.com/Aditya-Tomar/Learning-Stuff-.git
+your README should contain brief about the project and should be written in markdown language. https://github.com/Aditya-Tomar/Learning-Stuff-/blob/master/README.md
+How git workflow works? 
+       Git hub workflow has sections - Workspace,Staging area,Local repository (decentralized) and remote repository (centralized).
+Any changes we made in our project file or create a new one it is present in workspace we have to add it and commit it after that the file is present or shifted in our local repository and to push it to remote repository we use the git push command. Reverse can be done we can fetch file from remote repository buy fetch method also.
+4  What are the different stages of a git project as commit, add?
+    First we have to make git repository because this file keeps track of all the changes that we made.
+    init command is used to make it or initialise it.
+   add command is used to add a file or to make a file move from workspace to staging area
+   commit will move your file from stage to local repository. Used to commit file.
+   push command will add file from local repo to remote repo (github repository)
+   fetch command is used to fetch files from remote repository and take it to local repository.
+5 is it possible to do a commit before git add, if you have made any changes? Explain why?
+    git commit take file from stage area to commit and to move file in stage area it need to be added by git add.
+   so  we cannot commit file without doing adding it.
+6 Why is git diff used?
+    a git command it tell us the difference between the working file and the previous file if we had made any changes on it.
+7  Can we leave the commit message blank?
+    yes but it comes in good practise to add message. it act as a notice board will tell us what we have done in this file.
+README.md
+<https://github.com/Aditya-Tomar/Learning-Stuff-|Aditya-Tomar/Learning-Stuff->Aditya-Tomar/Learning-Stuff- | Added by GitHub
+:white_check_mark:
+1
+
+
+
+2 replies
+Last reply 3 days agoView thread
+
+Deepak Kumar (Mentor)  3:13 PM
+@channel
+Hey guys, I hope you all are doing great.
+Here's the link to the google docs of a third-day task: https://docs.google.com/document/d/1yDAjvfYT8Xc1OFk5NJU_-nO58tMrL0dS78thBKFlQig/edit?usp=sharing
+Once you completed all the tasks perfectly you need to do the following things to get marked as completed by our team
+1. Share the link of the PR you have made, so you need to submit the link of two PR's.
+Drop the answer to the following questions
+a. What is meant by the term fork and clone?
+b. What are branches in Github?
+c. What is PR?
+d. Can we delete the master branch if not Why?
+e. How can we delete a branch? (Explore a bit about this yourself)
+Deadline to submit the task is by 3pm tomorrow
+Regards
+Codewayy
+
+Manish V  3:37 PM
+I am new here, please can someone tell me what's going on?
+
+Manish V  3:37 PM
+And how can i be a part of it
+
+1 reply
+3 days agoView thread
+
+yashika mittal (Mentor)  3:40 PM
+Hey! Welcome to the community.
+Task 1 and 2 are already assigned of git and GitHub series and going to share task 3 soon .
+Try to complete task 1 and 2 till tommorow . If you face any problem you can message on GitHub problem channel .
+
+Manish V  4:07 PM
+Thank you, found the tasks now, will try to complete it by tomorrow
+
+1 reply
+3 days agoView thread
+
+yashika mittal (Mentor)  6:29 PM
+For some new people asking for task 2 :
+@channel Hey guys, I hope you all are doing great.
+Here's the link to the google docs of a second-day task: https://docs.google.com/document/d/1IJaA0rpr6U9xtdLH-XSOuR-QxQHOUnU8jtOHLYm1km8/edit?usp=sharing
+Once you completed all the tasks perfectly you need to do the following things to get marked as completed by our team
+1. Share the link to the GitHub repository you have created.
+2. Your README should contain a brief about the project and should be written in markdown language.
+Drop the answer to the following questions
+ a. How git workflow works?
+ b. What're the different stages of a git project as commit, add?
+ c. Is it possible to do a git commit before git add . if you have made any changes? Explain why?
+ d. Why is git diff used?
+ e. Can we leave the commit message as blank?
+I expect the answers to be precise for the above questions. Please only
+write what you have understood. If you are facing any difficulties drop
+your question in the channel we would try to help our best.
+Deadline to submit day 2 task is by 11am tomorrow
+Happy Hacking:smile:
+Regards
+Codewayy
+
+Sumanth Maturi  7:56 PM
+TASK:02    :: Submission                                                                                                                                                                                                                                              QA. How git workflow works?
+Ans- 1. Working directory  is Workspace.
+2. Index is stage
+3. Local Repository is Head
+4. Remote Repository
+There is one central repository.
+Each developer clones the repository they created,
+works locally on the code,
+Modifies and makes the changes as required
+Commit the changes using command commit  with changes
+and push it to the central repository
+for other developers to pull and use in their work.
+QB. What are the different stages of a git project as commit ,add?
+Ans- Different stages of a git project:
+     1.Untracked
+     2.Staged
+     3.Committed
+QC. Is it possible to do a git commit before git add. if you have made any changes. Explain why?
+Ans-  No, because according to the process
+first, we have to add the file and then commit changes to it(any changes)
+After making the changes we will add them using “git add .”
+and then we can commit it using (commit -a).
+QD. why is git diff used?
+Ans- git diff is used mainly to track the difference between the changes made on a file time to time. This command shows all the
+changes which are done to an particular file. Diff command takes two inputs and reflects the differences between them. These inputs don’t need to be filed only.
+It can be branches, working trees, commits, and more.
+QE. Can we leave a commit message as blank?
+Ans- Yes , we can leave a commit message blank.
+It is a valid request, commit can have no message at all.
+Link to GitHub repository :https://github.com/SumanthMaturi/sumanthgitseries/tree/master
+:white_check_mark:
+2
+
+
+
+
+4 replies
+Last reply 3 days agoView thread
+
+Prantik Kumar Seal  8:06 PM
+Nicee
+
+Dharani T  9:20 PM
+I'm a new to this series, Can anyone guide me about the tasks that I should complete ? please.
+
+
+3 replies
+Last reply 3 days agoView thread
+
+Pawan Agrawal  11:20 AM
+TASK-3
+1) share the link of the  2 PR that u have made.
+Master branch--https://github.com/codewayy/github_series/pull/127
+Custom branch--https://github.com/codewayy/github_series/pull/128
+Drop the ans of the following question.
+A) what is meant by the term clone and fork.
+Ans) Forking is a concept while cloning is a process.
+Forking is just containing a separate copy of the repository from the owner github account to the person who wants to fork it, and there is no command involved in it.
+Whereas cloning is done through the command "git clone" and it is the process of receiving all the code files from your github account to the local machine.
+B) what are branches in github.
+Ans) A branch in github is simply the path in which u move forward and make commits. The default branch name in git is master. As u start making commit , u are given a master branch that points to the last commit u made.
+You can also create the custom branch from a root branch (master) and after doing commit u can also merge the custom branch to the root branch.
+Is it a good practice to create a custom branch if u are working in a team.
+C) what is PR.
+Ans) After forking and cloning, and making changes to the file, u want to reflect these changes in the main account from Which u have forked the repo, in that case you make a pull request to the person who is the owner of that repo... saying that what changes u have done.
+If that person find your changes interesting in that case he can merge your pull request .
+And all the changes that you have made will be reflected in the main repo.
+D) can we delete the master branch.. if not why.?
+Ans)As the master branch is the root and default branch of our github repo..so if want to delete it we can't delete it directly..we have to first change our default branch, then we can delete master branch.
+Steps to delete the master branch--->
+1) create a new custom branch.
+2) go to settings--> github pages---> branches---> default branch.
+3) and change the default branch to the custom branch that u have made previously.
+4) delete the main branch.
+E) how to delete a branch.
+Ans) Deleting branch locally--->
+Git will not let u delete the branch you are currently on so u must make sure to checkout a branch that you are NOT deleting.
+Command--> git branch -d <branch>.
+It will only delete the branch it it has been pushed and merge with the remote branch.
+Use "-D" instead if u want to force the branch to be deleted, even if hasn't been pushed or merge yet.
+Deleting a branch Remotely---->
+Command--> git push  < remote> --delete <branch>
+e.g) git push origin --delete <branch_name>.
+#128 Pawan task3
+<https://github.com/codewayy/github_series|codewayy/github_series>codewayy/github_series | Jul 8th | Added by GitHub
+
+
+2 replies
+Last reply 2 days agoView thread
+
+Ritika  11:55 AM
+task 2
+
+Ritika  11:56 AM
+task 2 submission https://github.com/ritikavar/git_learning/tree/master
+
+1 reply
+2 days agoView thread
+
+Ritika  12:17 PM
+Task 2 a) working directorty》staging area》repository
+B) status:display the status of working directory
+Add: add file to staging area
+Commit: update the change and add to working directory
+C) no
+D)to view the changes between previous and current file
+E) yes
+
+
+
+3 replies
+Last reply 2 days agoView thread
+
+Huzaib  12:41 PM
+Task-3
+1) Share the links of the two PRs?
+https://github.com/Huzaib/Git-Series/pull/1
+https://github.com/codewayy/github_series/pull/125
+a) What is meant by the term fork and clone?
+Forking allows us to get a copy of someone else's repository on our remote repository so that we can work with it and then suggest certain changes or additions to it.
+Any changes to the original repository will be reflected back to our forked repository.
+Clone allows to copy the project we forked from our remote repository to our workspace. To add the changes made in our forked repository to the actual repository, we have to create a pull request to the original repository. If the pull request is accepted by the project administrator, the changes will be merged to the original repository.
+b) What are branches in Git?
+Git branch is a feature in git used for separating a feature or part of code from master in order not to mess something in our main code
+Branches allow us to work over separate parts of the project or code without affecting the master branch (main working code). By default everything is stored in the master branch and when we create a new branch, the same files are copied and we can make changes to it without affecting the files in the master branch. We can add these changes to the master branch or any other branch whenever we want by merging the two branches.
+c)What is PR?
+PR or pull request is a feature utilised whenever we want to contribute to someone else's repository. Pull requests let you tell others about changes you've pushed to a GitHub repository. In order to contribute to anyone else's project we create a pull request with the title and the description of the changes we want to make. If the project administrator finds the changes useful, he can accept the PR and merge. Creating a PR is subject to merge conflicts. We can only create a PR if there are no unresolved merge conflicts.
+d) Can we delete the master branch? If not, why?
+We cannot delete the master branch as such because master is the default branch for every project we create. In order to delete this, we need to create a separate branch, make this branch the default branch on GitHub, delete this branch on the local repository and then delete this branch on the remote repository.
+In the local repository:-
+git branch new
+git checkout new
+git branch -D master
+Make GitHub look at new branch:-
+git checkout new
+git push origin new
+Set the default branch to new on. GitHub
+Now
+git push origin :master
+But this way we have just essentially changed our default branch and deleted it and not deleted default master branch.
+e) How can we delete a branch?(Explain a bit about this yourself)
+Git does not let us delete the branch we are currently on so we must make sure to checkout to a branch that we are not deleting. For example: git checkout master
+To delete a branch locally:
+git branch -d localBranchName
+To delete a branch remotely:
+git push origin --delete remoteBranchName
+#1 New branch merged to master branch
+<https://github.com/Huzaib/Git-Series|Huzaib/Git-Series>Huzaib/Git-Series | Jul 7th | Added by GitHub
+#125 Task-3
+<https://github.com/codewayy/github_series|codewayy/github_series>codewayy/github_series | Jul 7th | Added by GitHub
+
+1 reply
+2 days agoView thread
+
+Priyanka  1:01 PM
+TASK 3
+Once you completed all the tasks perfectly you need to do the following things to get marked as completed by our team
+1. Share the link of the PR you have made, so you need to submit the link of two PR's.
+PR1 LINK=>   https://github.com/codewayy/github_series/pull/130
+PR2 LINK=>   https://github.com/codewayy/github_series/pull/131
+a. What is meant by the term fork and clone?
+--To contribute in someone's else project or to make others project as your starting point is called as forking.Create a 'fork' produces someone else project as our personal copy.Forking is at the core of social coding at GitHub.
+                    Clone is copy of the target repository.
+                    git-clone - "Clone a repository into a new directory"
+b. What are branches in Github?
+--A branch in Git is simply a lightweight movable pointer to one of these commits. The default branch name in Git is "master". As you start making commits, you're given a master branch that points to the last commit you made. Every time you commit, the master branch pointer moves forward automatically.
+c. What is PR?
+--Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub.
+d. Can we delete the master branch if not Why?
+--No.That is because github is looking at the master branch to provide the web content when you browse that repository. So we first have to make github look at our placeholder branch instead, then delete master.
+e. How can we delete a branch?
+--Delete a branch LOCALLY:-
+step1:git checkout master
+step2:git branch -d <branch>.
+      For example: git branch -d fix/authentication
+The -d option will delete the branch only if it has already been pushed and merged with the remote branch. Use -D instead if you want to force the branch to be deleted, even if it hasn't been pushed or merged yet.The branch is now deleted locally.
+Deleting a branch REMOTELY:-
+step1:git push <remote> --delete <branch>.
+      For example: git push origin --delete fix/authentication
+The branch is now deleted remotely.
+OR,
+You can also use this shorter command to delete a branch remotely:
+git push <remote> :<branch>
+For example: git push origin :fix/authentication
+#131 Alpha branch
+<https://github.com/codewayy/github_series|codewayy/github_series>codewayy/github_series | Jul 8th | Added by GitHub
+
+1 reply
+2 days agoView thread
+
+R.VAISHNAVI  1:15 PM
+Task -3
+The link of the two PR are:- https://github.com/codewayy/github_series/pull/126 and https://github.com/codewayy/github_series/pull/129       
+The answers to the given questions are:-
+a. What is meant by the term fork and clone? 
+Answer: Git Fork means we just create a copy of the main repository of a project source code to our own GitHub profile. Here we can experiment whatever we like without affecting the main source of that project. Then we can make our changes and create a Pull Request to the main repository branch. When we would like to use someone's project as a starting point of our own. This process is known as forking. Git clone is a Git command line utility which is used to target an existing repository and create a clone, or copy of the target repository. When we clone a repository, the repository is copied on to our local machine with the help of Git.
+b. What are branches in Github?
+Answer: A branch in Git is simply a lightweight movable pointer to one of the commits. The default branch name in Git is master.As we start making commits, we are given a master branch that points to the last commit we made. Every time we commit, the master branch pointer moves forward automatically.
+c. What is PR?
+Answer:PR means Pull Requests which let us tell others about changes we've pushed to a GitHub repository. Once a pull request is sent, interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary.
+d. Can we delete the master branch if not Why?
+Answer: It is possible to delete the master branch but before that we need to  change our GitHub repository default branch. We need to go to the GitHub page for our forked repository, and click on the “Settings” button. Then click on the "Branches" tab on the left hand side. There's a “Default branch” dropdown list near the top of the screen. From there, select placeholder (where placeholder is the dummy name for our new default branch). Confirm that we want to change our default branch. Now we can do (from the command line):
+git push origin :master
+e. How can we delete a branch?
+Answer:This can be done in 2 ways:-
+   Github:-
+   1. On GitHub, navigate to the main page of the repository.
+   2. Above the list of files, click NUMBER branches.
+   3. Scroll to the branch that you want to delete, then click the delete icon.
+   Git Bash:-
+   In Git Bash, write the command git branch –d <Branch Name> and the branch will be deleted.
+#126 task3
+<https://github.com/codewayy/github_series|codewayy/github_series>codewayy/github_series | Jul 7th | Added by GitHub
+#129 New vaish branch
+<https://github.com/codewayy/github_series|codewayy/github_series>codewayy/github_series | Jul 8th | Added by GitHub
+
+
+
+3 replies
+Last reply 2 days agoView thread
+
+Shristi Bansal (Git Mentor)  1:57 PM
+Please use Markdown Language. Those who dont know what Markdown Language is, go through the link  below:-
+https://guides.github.com/features/mastering-markdown/
+Regards
+Team Codewayy (edited) 
+
+Manisha gupta  2:14 PM
+Task 2
+1.Here the link of repository I 've created
+https://github.com/manisha03gupta/hello-world
+1.How git overflow works?
+There are 4 fundamentals of Git workflow :-
+1.Workspace-which is our local directory.
+2.Index-also called stage
+3.local Repository- HEAD
+4.Remote repository
+If you consider a file in your workspace it can be in 3 possible states:-
+I. It can be committed which means latest changes to the file are safely stored in local repository.
+II. It could be modified and changes are not saved in local repository so locally modified.
+III. It can be staged means that it can be consider in next commit.
+Some commands-
+1.add(-u) :add file from workplace to index
+2.commit: all files staged
+3.push:pushes your changes from local repository to remote repository.
+Q. 2.What are the different stages of a git project as commit, add?
+Ans:- Untracked:the file exist in workspace, but is not a part of local repository.
+Staged: the files has been added to local repository but changes have not been committed.
+Committed: the change has been committed and added to local repository.
+Q. 3.It is possible to do a git commit before git add. If you have made any changes. Explain why?
+Ans: No, because according to the process first, we have to add the file and then commit changes to it.
+After making the changes we will add them using "git add".&then we can commit it using (commit-a).
+Q. 4.why is git diff used?
+Ans: Git diff is used to track the difference between the changes made on a file. This command shows all the changes which are done. Diff command takes two inputs &rejects the difference between them. These inputs don't need to be filed only. It can be branches, working trees, commits, and more.
+Q. 5.Can we leave a commit message as blank?
+Ans: yes, we can leave a commit message as blank.
+git commit-a--allow empty-message m msg. It is valid request, commit can have no msg at all. (edited) 
+manisha03gupta/hello-world
+just another repository
+Last updated
+a day ago
+<https://github.com/manisha03gupta/hello-world|manisha03gupta/hello-world>manisha03gupta/hello-world | Jul 7th | Added by GitHub
+:white_check_mark:
+1
+
+
+
+
+
+4 replies
+Last reply 1 day agoView thread
+
+Aditya Singh Tomar  2:23 PM
+The link of PR :- https://github.com/codewayy/github_series/pull/132 and https://github.com/codewayy/github_series/pull/133
+a. What is meant by the team fork and clone?
+-- Git Fork creates a copy of the original file or main file of the one's repository in our github profile. With this file we can make changes and to do it on git we clone it. git clone command is used to clone. This command creates a folder which contain the copy of the original repository or we can say it stores the fork file inour computer.
+b. What are branches in Github?
+ -- Let say we have a main string of commits and we connected and other string on the main commits. This is similar to branches. A pointer to a separate commit pointed from the default branch master. We can consider it a separate copied section of the master where we can make changes without affecting the main and if we want to merge it we can do this also.
+c.  What is a PR?
+  -- PR means Pull Request. we can say it is a request made by a person to add the changes and updates he has done on our project. In pull request the main guy can see the changes and comparae it with the previous and can discuss about the modifications.
+d.  Can we delete a master branch if not why?
+ -- We cannot delete the master branch directly because because github is looking at the master branch to provide the web content when you browse that repository.
+e. How can we delete a branch?
+ -- The links have nothing about deleting branches.
+    We can delete local branch by gitbash simply type git branch -d branch_name (edited) 
+
+
+2 replies
+Last reply 1 day agoView thread
+
+yashika mittal (Mentor)  2:43 PM
+@channelplease note the following important points while doing your task.
+1) Use git bash to make the . TXT or . Md files.
+You are not allowed to use drag and drop option.
+2) use commands esc+i to insert in vi file and :wq to save and exit.
+3) don't give your incomplete work due to any cause , your deadline is passed or something, because mentors will ask you again to update your work.
+4) if not getting anything ask on GitHub help regarding commands
+
+Manish Jha  3:13 PM
+Task 3:
+1. Share the link of the PR you've made.
+https://github.com/codewayy/github_series/pull/134
+https://github.com/codewayy/github_series/pull/135
+a) What is meant by the term fork and clone?
+ans: Forking a project means creating a personal copy of the project for making changes, debugging etc.
+After forking any project, the project remains on the github account. In order to make changes in the files we clone the project to get that in our system.
+b) What are branches in github?
+ans: Branches are different roadmaps that someone can go through while working in git environment. All the branches whirl around the master branch. Side branched can pe made to do experimental changes of in case you are working in a team.
+c) What is PR?
+ans: After commiting changes in a project the local repo is compared with original repository and a pull request is generated to ask the original repo to apply the changes. PR could be accepted or rejected but it doesnt makes any difference in forked repo.
+d) Can we delete master branch? If not why?
+ans: Master branch is root of the repo so in to deleted master branch any other branch should be assigned as our root branch. After that, the selected branch starts acting as master. After that we can delete  the branch which was previously master.
+e) How can we delete a branch?
+ans: To delete a branch first we need to get out of that branch as git doesnt allow to delete a branch we are currently working on.
+after that we can use
+git branch -d localBranchName  //to delete a branch locally
+git push origin --delete remoteBranchName //to delete a branch remotely
+#134 added folder
+<https://github.com/codewayy/github_series|codewayy/github_series>codewayy/github_series | Jul 8th | Added by GitHub
+#135 Test branch
+<https://github.com/codewayy/github_series|codewayy/github_series>codewayy/github_series | Jul 8th | Added by GitHub
+
+
+2 replies
+Last reply 2 days agoView thread
+
+Ananya Mehra  5:11 PM
+Q) share the link of the PR that you have made ?
+ans)here is the link:
+ans)https://github.com/codewayy/github_series/pull/136
+a) what is meant by term fork and clone?
+ans)fork is creating a copy of the repository and the repository remains in aur github account, and cloning a repository is copied to out computer
+b)what are the branches of github?
+ans)the github manages the timeline when more than one person is working on the project and making changes by using branches , the branches in
+github are-
+the first default branch is master branch keeps moving forward as you keep making changes.
+c)what is PR?
+ans)PR is a pull request taht shows the changes yoyu have made to the other person's repository a pull request is sent and then you are free to
+make changes to that repositoy and then after commiting your changes you van push it to your github for others to see.
+d)can we delete the master branch if not why?
+ans)no we can't delete the master branch because it is the default branch and is the main branch so it can't be deleted ,and still if you want it
+to be deleted we need to change our github repositoery and github name.
+e)how can we delete a branch?
+ans)if we want to delete it locally we can delete it only after puched and merged, and we use -d if we are forced to delete it .
+and for deleting a branch remotely use command git push <origion>-deletion <remoteBranchName>.
+ANANYA162020ANANYA162020
+#136 Ananya branch
+updated intro file and made new pull request
+<https://github.com/codewayy/github_series|codewayy/github_series>codewayy/github_series | Jul 8th | Added by GitHub
+
+
+4 replies
+Last reply 1 day agoView thread
+
+Priyanka  7:46 PM
+@Deepak Kumar (Mentor)  today's task??
+
+
+8 replies
+Last reply 1 day agoView thread
+
+Riddhi Gondaliya  9:02 PM
+Task 1:
+1. What do you mean by git and GitHub?
+ans : - Git is open source version control system. its is powerful application. we can use git in the local system after installing it.
+      -  Git is a version control tool, while Github is the service that hosts the git projects.
+      - to work with the Git, we don't required to use Github.
+2.  Why GitHub is so popular and used in most of the projects?
+Ans : - Github is a Git repository hosting service, which provides web- based graphical interface.it helps every team    member to work together on the project from anywhere an makes easy for them to collaborate.
+- pull request helps team to  review, improve,  and propose a new codes on Github. the implementation and and     proposals can be discussed  before changing the source code.
+				
+3. What is a version control system? How Git is a VCS?
+Ans : - Version control system is to help you maintain  a detailed history of the project as well as the ability to work on a diffrent versions of it. having a detailed history of the project is important because it lets you see the progress of the project over time.if needed, you can also jump back to any point in the project to recover data or files.
+4. What are the other platforms similar to GitHub?
+Ans : -  Bitbucket
+          -  SourceForge
+	  -  Google Cloud Source Repositories.
+5. Why are you interested in learning of Git and Github?
+Ans : - because its really easy to use and, we can track the current code. also its save the history of the previous code, whenever we need to add a new feature in the previous code we can use it easily by committing the previous code. also we can clone, push or pull the code anytime. (edited) 
+:white_check_mark:
+3
+
+
+1 reply
+1 day agoView thread
+
+Riddhi Gondaliya  9:08 PM
+Task 2
+1) Share the link to the GitHub repository you have created?
+https://github.com/RiddhiGondaliya/git_series_practice
+2.Your README should contain a brief about the project and should be written in markdown language.
+https://github.com/RiddhiGondaliya/git_series_practice/blob/master/README.md
+a. How git workflow works?
+Ans : four things are important in git workflow
+     workspace(working directory)
+	 index (stage)
+	 local repository
+	 Remote repository
+	 - in workspace we can create a new files or making some changes or we can modify the file, the following changes are tagged by stage called index. stage means that the file is basically part of the index
+	 - Git clone command: Git clone command is used create a copy for that repository in the workspace.
+	 - Git add command : git add command are used to add the file in the index but not actually committed to the local repository. so for committing the file we need to execute the git commit command, by using this command all the file that are staged is released in the local repository
+	    using local repository  we can explicitly push our changes into the Remote repository. after this all of the changes will be visible to anyone who have access of the remote repository.
+    - we can also get the local repository from the Remote repository by using git fetch or the git pull command. by using the git pull command whatever the changes form the remote repository we get directly into the local repository and the workspace at once.
+	- git merge command, it will change to the local repository and get them to our workspace, so at that point files will be updated to what is in a remote repository.
+	
+b.  What're the different stages of a git project as commit, add?
+Ans : we are using git add, when we need to change in the current working file, or we can modify the file by using git add command. or git commit command is used when all changes are made into the workspace after that we will commit into the local  repository .
+	 
+c. Is it possible to do a git commit before git add . if you have made any changes? Explain why?
+Ans : no i think not, because first we will use git add command to make changes or may we modify the code or etc. so after all changes are made then final code of that working file will be committed into the local repository.
+   for example :  in first.txt i have added some text, or deleted some text. so those all are changes are saved in the staged called index. After final change i will do commit into the local repository.
+d. Why is git diff used?
+Ans :  git diff is used to get the difference between my local files, the files in my working directory. and the file in my local repository, so fetch this file from the remote repository we can use git diff command an check the what are the diffrences are. and based on their differences whether i want to merge or not.
+e.  Can we leave the commit message as blank?
+Ans :  yes we can, but its a good habit when we commit message with proper sentence, so next time whenever we see the file we can get idea about what changes we have made or what is in file about.
+RiddhiGondaliya/git_series_practice
+Last updated
+11 minutes ago
+<https://github.com/RiddhiGondaliya/git_series_practice|RiddhiGondaliya/git_series_practice>RiddhiGondaliya/git_series_practice | Jul 8th | Added by GitHub
+README.md
+<https://github.com/RiddhiGondaliya/git_series_practice|RiddhiGondaliya/git_series_practice>RiddhiGondaliya/git_series_practice | Added by GitHub
+:white_check_mark:
+4
+
+
+
+2 replies
+Last reply 1 day agoView thread
+
+Mahima Garg  9:58 PM
+I am new to git-github
+
+
+2 replies
+Last reply 23 hours agoView thread
+
+Sumanth Maturi  10:16 PM
+TASK 03 :: SUBMISSION
+Once you completed all the tasks perfectly you need to do the following things to get marked as completed by our team
+1. Share the link of the PR you have made, so you need to submit the link of two PR's.
+Link1: https://github.com/codewayy/github_series/pull/137
+Link2: https://github.com/SumanthMaturi/github_series/pull/1
+a.) What is meant by the term fork and clone?
+Fork:
+To contribute in someone's else project or to make others project as your starting point,you will undergo an process called as forking.
+Create a 'fork' produces another project as our personal copy.Forking is at the core of GitHub.
+Clone:
+Clone is copy of the target repository.
+                    git-clone - "Clone a repository into a new directory"
+b.) What are branches in Github?
+A branch in Git is simply acts as a lightweight movable pointer to one of these commits.
+The default branch name in Git is "master".
+As you start making commit actions, you are given a master branch that points to the last commit you made.
+Every time you commit, the master branch pointer moves forward automatically.
+c.) What is PR?
+(PR)Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub.
+d. )Can we delete the master branch if not Why?
+No.
+Because github is looking at the master branch to provide the web content when you browse that repository.
+ So we first have to make github look at our placeholder branch instead, then delete master.
+e. )How can we delete a branch?
+locally:-
+s1:git checkout master
+s2:git branch -d <branch>.
+      For example: git branch -d level01/submission
+The -d option will delete the branch only if it has already been pushed and merged with the remote branch.
+ Use -D instead if you want to force the branch to be deleted, even if it hasn't been pushed or merged yet.The branch is now deleted locally.
+workflow:It consist of four fundamentals elements i.e Workspace ,index,local repository ,remote repository.
+File in workspace can be stored in 3 possible ways : committed  when data is safely stored,modified in case when your file being changed and none of the changes are saved in local repository,it can be staged  which mean file is part of index that is tagged to be consider in next commit. It works in 2 ways i.e centralised and decentralised. In case of decentralised there is local repository and you have to explictly push your changes to remote repository this is done by git push command.
+Git fetch  command to get files from remote to local repository  ,Git merge is used to get changes from local repository and take them to workspace .
+Command like git diff head git diff are also used in its working.
+Quesb).What are different stages of git project as commit,add?
+Ans b ) Different stages of git project as commit ,add are:
+1.Working Directory:Consider a project residing in your system .This project may or may not be tracked by Git. In either case this project directory is called Working Directory
+2.Staging area:staging area is the area where you group ,add and organize the files to be committed to Git for tracking their versions.
+3.Git Directory : it is database where metadata about project files history will be tracked.
+Quesc) Is it possible to do git commit before git add . if you have made any changes ?Explain why?
+Ans c) No it is not possible because git add commands add a change in the working directory to the staging area .It tells git that you want tit and add your message. (edited) 
 
