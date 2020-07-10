@@ -1,0 +1,19 @@
+TASK 3:
+1.Share the link of the PR you have made,so you need to submit the link of two PR's.
+Ans The links are: https://github.com/codewayy/github_series/pull/141#issue-447016059
+https://github.com/codewayy/github_series/pull/142#issue-447055579
+a).What is meant by term fork and clone?
+Ans a) When we fork a reppsitory we create a copy of a original repository,but repository remain on our github account.Whereas when you clone the repository ,it is copied on to your local machine with help Git.
+b).What are branches in Github?
+Ans b).Branchingd to work separately without messing with mainline. Git branch is used to list ,create or delete and basically to logically divide our work.
+Some of the branches of git are: git-a,git branch-list,git-c,git-d,git-D,git-m,git-q,git-r,git----,git --,edit --,git -- no - , git -t.
+c)What is PR?
+Ans c).Pull Request let you tell others about change you pushed to Github repository once . A pull request is sent ,interest party can review the set of changes dicuss potential modification and even push follow up commit if necessary.
+d).Can we delete the master branch if not Why?
+Ans d)..No we can't delete the master brach because most of git reposirory use master as a main branch and if you initialize a new git repository it will have master by default.
+And for deleting it we need to change our Github ripo default name.
+e).How can we delete a branch?
+Ans e).If we want to delete it Locally . We can delete if only pushed and merged with remote by command: git branch -d localBranchName
+use git -D  if we  force branch to be deleted.
+And if we want yo  delete branch remotely
+use commamd git push <origin> -deletion <remoteBranchName>.
