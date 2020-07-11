@@ -1,5 +1,6 @@
-STEPS HOW GITHUB WORKS :
-●Github builds collaboration directly into the development process. Work is organized into repositories,where development can outline requirements and direction and set expectations for team members. Then using Github flow developers create a branch to work on updates ,commit changes to save them,open pull requests to propose and discuss changes,and merge pull requests once everyone is on the same page.
++ # STEPS HOW GITHUB WORKS :
++ ## Github builds collaboration directly into the development process. Work is organized into repositories,where development can outline requirements and direction and set 
++ *expectations for team members. Then using Github flow developers create a branch to work on updates ,commit changes to save them,open pull requests to propose and discuss changes,and merge pull requests once everyone is on the same page.*
 ●Some of process involved in github working are :
 A. Create a branch: Topic branches created from canonical deployment branch allows teams to contribute to many parallel efforts.
 B.Forking: when you fork a repository,you create a copy of the original repository but it remains on github.
